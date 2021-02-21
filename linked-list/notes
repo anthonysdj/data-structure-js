@@ -1,0 +1,17 @@
+linked list
+- does not have index
+- starts with first element which is called head
+- has a linked to the next value in the linked list
+
+doubly linked list
+- has reference to the previous element
+
+circular linked list
+- last value has reference to the first value
+
+Pros
+- when inserting, getting, deleting element in the beginning
+- efficient because elements doest not need to shift
+
+Cons
+- getting items in the list that is not the first because you need to loop through the other elements to get to them
